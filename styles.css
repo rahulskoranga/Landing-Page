@@ -1,0 +1,117 @@
+/* Basic Reset */
+body, h1, h2, h3, p, a {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  body {
+    line-height: 1.6;
+    background-color: #f9f9f9;
+  }
+  
+  .container {
+    width: 85%;
+    margin: auto;
+  }
+  
+  /* Header Section */
+  .header {
+    background: #FF6F61;
+    color: white;
+    padding: 30px 0;
+  }
+  
+  .header h1 {
+    font-size: 2.5rem;
+  }
+  
+  .header p {
+    margin: 10px 0;
+    font-size: 1rem;
+  }
+  
+  .small-text {
+    font-size: 0.8rem;
+    opacity: 0.8;
+  }
+  
+  .btn {
+    text-decoration: none;
+    background: #0073e6;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  /* Features Section */
+  .features {
+    background: #fff;
+    padding: 40px 0;
+  }
+  
+  .feature {
+    margin-bottom: 30px;
+  }
+  
+  .feature h2 {
+    font-size: 1.8rem;
+    color: #FF6F61;
+  }
+  
+  .btn-small {
+    text-decoration: none;
+    background: #0073e6;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .link {
+    color: #0073e6;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* Advantages Section */
+  .advantages {
+    background: #eee;
+    padding: 40px 0;
+  }
+  
+  .advantage h3 {
+    font-size: 1.5rem;
+    color: #FF6F61;
+  }
+  
+  /* Servers Section */
+  .servers {
+    background: #fff;
+    padding: 40px 0;
+  }
+  
+  .servers h2 {
+    font-size: 2rem;
+  }
+  
+  .servers img {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px 0;
+  }
+  
+  /* Footer Section */
+  .footer {
+    background: #333;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .footer p {
+    font-size: 0.9rem;
+  }
+  
